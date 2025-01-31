@@ -27,7 +27,8 @@ const initialRecipes = [
       "Add tomatoes, salt, and pepper, and simmer.",
       "Serve the sauce over the spaghetti and top with cheese."
     ],
-    image: "/images/sb.jpg"
+    image: "/images/sb.jpg",
+    likes:0
   },
   {
     id: 2,
@@ -45,7 +46,8 @@ const initialRecipes = [
       "Add curry powder and coconut milk, and simmer.",
       "Serve the curry with rice."
     ],
-    image: "/images/cc.jpg"
+    image: "/images/cc.jpg",
+    likes:0
   },
   {
     id: 3,
@@ -62,7 +64,8 @@ const initialRecipes = [
       "Grill in a pan until golden and cheese is melted.",
       "Serve warm."
     ],
-    image: "/images/sand.jpg"
+    image: "/images/sand.jpg",
+    likes:0
   },
   {
     id: 4,
@@ -80,7 +83,8 @@ const initialRecipes = [
       "Drizzle Caesar dressing and toss to combine.",
       "Serve fresh."
     ],
-    image: "/images/salad.jpg"
+    image: "/images/salad.jpg",
+    likes:0
   },
   {
     id: 5,
@@ -98,7 +102,8 @@ const initialRecipes = [
       "Cook until golden brown on both sides.",
       "Serve with syrup or toppings of your choice."
     ],
-    image: "/images/pc.jpg"
+    image: "/images/pc.jpg",
+    likes:0
   },
   {
     id: 6,
@@ -116,7 +121,8 @@ const initialRecipes = [
       "Add soy sauce and toss well.",
       "Serve hot with rice or noodles."
     ],
-    image: "/images/stir.jpg"
+    image: "/images/stir.jpg",
+    likes:0
   },
   {
     id: 7,
@@ -134,7 +140,8 @@ const initialRecipes = [
       "Bake in a preheated oven at 180°C for 25-30 minutes.",
       "Cool and cut into squares."
     ],
-    image: "/images/brown.jpg"
+    image: "/images/brown.jpg",
+    likes:0
   },
   {
     id: 8,
@@ -150,7 +157,8 @@ const initialRecipes = [
       "Blend mango, milk, sugar, and ice cubes in a blender.",
       "Pour into a glass and serve chilled."
     ],
-    image: "/images/mango.jpg"
+    image: "/images/mango.jpg",
+    likes:0
   },
   {
     id: 9,
@@ -163,7 +171,8 @@ const initialRecipes = [
       "Add spices, cream, and paneer cubes.",
       "Simmer for a few minutes and serve with naan or rice."
     ],
-    image: "/images/paneer.jpg"
+    image: "/images/paneer.jpg",
+    likes:0
   },
   {
     id: 10,
@@ -176,7 +185,8 @@ const initialRecipes = [
       "Add saffron milk and ghee, and cook on low heat.",
       "Serve hot with raita."
     ],
-    image: "/images/cbir.jpg"
+    image: "/images/cbir.jpg",
+    likes:0
   }
 ];
 
